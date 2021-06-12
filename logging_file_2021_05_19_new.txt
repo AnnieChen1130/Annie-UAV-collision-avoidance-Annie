@@ -1,0 +1,324 @@
+2021.05.19-15.07.59.800:  : New point ~~~~~~~~~~
+2021.05.19-15.07.59.800: last lattitude : 0.000000
+2021.05.19-15.07.59.800: last longitude : 0.000000
+2021.05.19-15.07.59.800: second to last Lattitude : 0.000000
+2021.05.19-15.07.59.800: second to last Longitude : 0.000000
+2021.05.19-15.07.59.800: Our Lattitude : 0.834304
+2021.05.19-15.07.59.800: Our Longitude : 150.893773
+2021.05.19-15.07.59.800: Other second Lattitude : 0.000000
+2021.05.19-15.07.59.800: Other second Longitude : 0.000000
+2021.05.19-15.07.59.800: Other Lattitude : 0.834321
+2021.05.19-15.07.59.800: Other Longitude : 144.007168
+2021.05.19-15.07.59.800: Our X Velocity : inf
+2021.05.19-15.07.59.800: Our Y Velocity : inf
+2021.05.19-15.07.59.800: Other X Velocity : 163.643311
+2021.05.19-15.07.59.801: Other Y Velocity : -321.723139
+2021.05.19-15.07.59.801: Time interval : 0.000000
+2021.05.19-15.07.59.801: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.801: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.801: otherFuturePos.x : 0
+2021.05.19-15.07.59.801: otherFuturePos.y : 144
+2021.05.19-15.07.59.801: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.801: Time interval : 1.000000
+2021.05.19-15.07.59.801: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.801: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.801: otherFuturePos.x : 0
+2021.05.19-15.07.59.801: otherFuturePos.y : 144
+2021.05.19-15.07.59.801: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.801: Time interval : 2.000000
+2021.05.19-15.07.59.801: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.801: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.801: otherFuturePos.x : 0
+2021.05.19-15.07.59.801: otherFuturePos.y : 144
+2021.05.19-15.07.59.801: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.801: Time interval : 3.000000
+2021.05.19-15.07.59.802: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.802: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.802: otherFuturePos.x : 0
+2021.05.19-15.07.59.802: otherFuturePos.y : 143
+2021.05.19-15.07.59.802: Future predicted distance : 10087138.894382
+2021.05.19-15.07.59.802: Time interval : 4.000000
+2021.05.19-15.07.59.802: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.802: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.802: otherFuturePos.x : 0
+2021.05.19-15.07.59.802: otherFuturePos.y : 143
+2021.05.19-15.07.59.802: Future predicted distance : 10087138.894382
+2021.05.19-15.07.59.802: Time interval : 5.000000
+2021.05.19-15.07.59.802: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.802: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.802: otherFuturePos.x : 0
+2021.05.19-15.07.59.803: otherFuturePos.y : 143
+2021.05.19-15.07.59.803: Future predicted distance : 10087138.894382
+2021.05.19-15.07.59.803: Time interval : 6.000000
+2021.05.19-15.07.59.803: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.803: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.803: otherFuturePos.x : 0
+2021.05.19-15.07.59.803: otherFuturePos.y : 144
+2021.05.19-15.07.59.803: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.803: Time interval : 7.000000
+2021.05.19-15.07.59.803: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.803: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.803: otherFuturePos.x : 0
+2021.05.19-15.07.59.803: otherFuturePos.y : 144
+2021.05.19-15.07.59.803: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.803: Time interval : 8.000000
+2021.05.19-15.07.59.804: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.804: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.804: otherFuturePos.x : 0
+2021.05.19-15.07.59.804: otherFuturePos.y : 144
+2021.05.19-15.07.59.804: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.804: Time interval : 9.000000
+2021.05.19-15.07.59.804: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.804: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.804: otherFuturePos.x : 0
+2021.05.19-15.07.59.804: otherFuturePos.y : 144
+2021.05.19-15.07.59.804: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.804: Time interval : 10.000000
+2021.05.19-15.07.59.804: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.804: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.804: otherFuturePos.x : 0
+2021.05.19-15.07.59.805: otherFuturePos.y : 144
+2021.05.19-15.07.59.805: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.805: Time interval : 11.000000
+2021.05.19-15.07.59.805: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.805: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.805: otherFuturePos.x : 0
+2021.05.19-15.07.59.805: otherFuturePos.y : 144
+2021.05.19-15.07.59.805: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.805: Time interval : 12.000000
+2021.05.19-15.07.59.805: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.805: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.805: otherFuturePos.x : 0
+2021.05.19-15.07.59.805: otherFuturePos.y : 144
+2021.05.19-15.07.59.805: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.805: Time interval : 13.000000
+2021.05.19-15.07.59.805: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.805: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.806: otherFuturePos.x : 0
+2021.05.19-15.07.59.806: otherFuturePos.y : 144
+2021.05.19-15.07.59.806: Future predicted distance : 10155658.020821
+2021.05.19-15.07.59.806: Time interval : 14.000000
+2021.05.19-15.07.59.806: ourFuturePos.x : -2147483648
+2021.05.19-15.07.59.806: ourFuturePos.y : -2147483648
+2021.05.19-15.07.59.806: otherFuturePos.x : 0
+2021.05.19-15.07.59.806: otherFuturePos.y : 144
+2021.05.19-15.07.59.806: Future predicted distance : 10155658.020821
+2021.05.19-15.08.21.79:  : New point ~~~~~~~~~~
+2021.05.19-15.08.21.79: last lattitude : 34.108074
+2021.05.19-15.08.21.80: last longitude : -117.755059
+2021.05.19-15.08.21.80: second to last Lattitude : 34.108073
+2021.05.19-15.08.21.80: second to last Longitude : -117.755058
+2021.05.19-15.08.21.80: Our Lattitude : 34.108072
+2021.05.19-15.08.21.80: Our Longitude : -117.755057
+2021.05.19-15.08.21.80: Other second Lattitude : 0.834321
+2021.05.19-15.08.21.80: Other second Longitude : 144.007168
+2021.05.19-15.08.21.80: Other Lattitude : 34.108086
+2021.05.19-15.08.21.81: Other Longitude : -117.755156
+2021.05.19-15.08.21.81: Our X Velocity : 0.000000
+2021.05.19-15.08.21.81: Our Y Velocity : 0.000000
+2021.05.19-15.08.21.81: Other X Velocity : 0.000000
+2021.05.19-15.08.21.81: Other Y Velocity : 0.000000
+2021.05.19-15.08.21.81: Time interval : 0.000000
+2021.05.19-15.08.21.81: ourFuturePos.x : 34
+2021.05.19-15.08.21.81: ourFuturePos.y : -117
+2021.05.19-15.08.21.81: otherFuturePos.x : 34
+2021.05.19-15.08.21.82: otherFuturePos.y : -117
+2021.05.19-15.08.21.82: Future predicted distance : 0.000000
+2021.05.19-15.08.21.82:  : COLLISION DETECTED
+2021.05.19-15.08.21.82: Distance at predicted collision : 0.000000
+2021.05.19-15.08.21.82: Time interval : 0.000000
+2021.05.19-15.08.21.82: ourFuturePos.x : 34
+2021.05.19-15.08.21.82: ourFuturePos.y : -117
+2021.05.19-15.08.21.82: otherFuturePos.x : 34
+2021.05.19-15.08.21.82: otherFuturePos.y : -117
+2021.05.19-15.08.21.82: Future predicted distance : 0.000000
+2021.05.19-15.08.21.82:  : COLLISION DETECTED
+2021.05.19-15.08.21.83: Distance at predicted collision : 0.000000
+2021.05.19-15.08.21.83: Time interval : 0.000000
+2021.05.19-15.08.21.83: ourFuturePos.x : 34
+2021.05.19-15.08.21.83: ourFuturePos.y : -117
+2021.05.19-15.08.21.83: otherFuturePos.x : 34
+2021.05.19-15.08.21.83: otherFuturePos.y : -117
+2021.05.19-15.08.21.83: Future predicted distance : 0.000000
+2021.05.19-15.08.21.83:  : COLLISION DETECTED
+2021.05.19-15.08.21.83: Distance at predicted collision : 0.000000
+2021.05.19-15.08.21.83: Time interval : 0.000000
+2021.05.19-15.08.21.83: ourFuturePos.x : 34
+2021.05.19-15.08.21.83: ourFuturePos.y : -117
+2021.05.19-15.08.21.83: otherFuturePos.x : 34
+2021.05.19-15.08.21.84: otherFuturePos.y : -117
+2021.05.19-15.08.21.84: Future predicted distance : 0.000000
+2021.05.19-15.08.21.84:  : COLLISION DETECTED
+2021.05.19-15.08.21.84: Distance at predicted collision : 0.000000
+2021.05.19-15.08.21.84: Time interval : 0.000000
+2021.05.19-15.08.21.84: ourFuturePos.x : 34
+2021.05.19-15.08.21.84: ourFuturePos.y : -117
+2021.05.19-15.08.21.84: otherFuturePos.x : 34
+2021.05.19-15.08.21.85: otherFuturePos.y : -117
+2021.05.19-15.08.21.85: Future predicted distance : 0.000000
+2021.05.19-15.08.21.85:  : COLLISION DETECTED
+2021.05.19-15.08.21.85: Distance at predicted collision : 0.000000
+2021.05.19-15.08.21.85: Time interval : 0.000000
+2021.05.19-15.08.21.85: ourFuturePos.x : 34
+2021.05.19-15.08.21.85: ourFuturePos.y : -117
+2021.05.19-15.08.21.86: otherFuturePos.x : 34
+2021.05.19-15.08.21.86: otherFuturePos.y : -117
+2021.05.19-15.08.21.86: Future predicted distance : 0.000000
+2021.05.19-15.08.21.86:  : COLLISION DETECTED
+2021.05.19-15.08.21.86: Distance at predicted collision : 0.000000
+2021.05.19-15.08.21.86: Time interval : 0.000000
+2021.05.19-15.08.21.86: ourFuturePos.x : 34
+2021.05.19-15.08.21.86: ourFuturePos.y : -117
+2021.05.19-15.08.21.86: otherFuturePos.x : 34
+2021.05.19-15.08.21.86: otherFuturePos.y : -117
+2021.05.19-15.08.21.86: Future predicted distance : 0.000000
+2021.05.19-15.08.21.86:  : COLLISION DETECTED
+2021.05.19-15.08.21.86: Distance at predicted collision : 0.000000
+2021.05.19-15.08.21.86: head or tail avoid : 0.982794
+2021.05.19-15.08.21.86: addHdg : 0.982794
+2021.05.19-15.08.21.87: avdDist : 90.138782
+2021.05.19-15.08.21.87: avdHdg : -1.373401
+2021.05.19-15.08.21.87: avoidVec[x] : 17.677670
+2021.05.19-15.08.21.87: avoidVec[y] : -88.388348
+2021.05.19-15.08.21.87: avoidWP lat (x) : 341008864
+2021.05.19-15.08.21.87: avoidWP lon (y) : -1177642845
+2021.05.19-15.08.21.87: Distance to avoid point : 12147524.828909
+2021.05.19-15.08.24.149: Replaced waypoint and current waypoint : 3
+2021.05.19-15.08.25.401:  : New point ~~~~~~~~~~
+2021.05.19-15.08.25.402: last lattitude : 34.108068
+2021.05.19-15.08.25.402: last longitude : -117.755054
+2021.05.19-15.08.25.402: second to last Lattitude : 34.108068
+2021.05.19-15.08.25.402: second to last Longitude : -117.755054
+2021.05.19-15.08.25.402: Our Lattitude : 34.108067
+2021.05.19-15.08.25.402: Our Longitude : -117.755054
+2021.05.19-15.08.25.402: Other second Lattitude : 34.108086
+2021.05.19-15.08.25.403: Other second Longitude : -117.755156
+2021.05.19-15.08.25.403: Other Lattitude : 34.108107
+2021.05.19-15.08.25.403: Other Longitude : -117.755156
+2021.05.19-15.08.25.403: Our X Velocity : 0.000000
+2021.05.19-15.08.25.403: Our Y Velocity : 0.000000
+2021.05.19-15.08.25.403: Other X Velocity : 0.912276
+2021.05.19-15.08.25.403: Other Y Velocity : -0.456237
+2021.05.19-15.08.25.403: Time interval : 0.000000
+2021.05.19-15.08.25.404: ourFuturePos.x : 34
+2021.05.19-15.08.25.404: ourFuturePos.y : -117
+2021.05.19-15.08.25.404: otherFuturePos.x : 34
+2021.05.19-15.08.25.404: otherFuturePos.y : -117
+2021.05.19-15.08.25.404: Future predicted distance : 0.000000
+2021.05.19-15.08.25.404:  : COLLISION DETECTED
+2021.05.19-15.08.25.404: Distance at predicted collision : 0.000000
+2021.05.19-15.08.26.406:  : New point ~~~~~~~~~~
+2021.05.19-15.08.26.406: last lattitude : 34.108067
+2021.05.19-15.08.26.406: last longitude : -117.755054
+2021.05.19-15.08.26.406: second to last Lattitude : 34.108067
+2021.05.19-15.08.26.406: second to last Longitude : -117.755054
+2021.05.19-15.08.26.406: Our Lattitude : 34.108067
+2021.05.19-15.08.26.406: Our Longitude : -117.755055
+2021.05.19-15.08.26.406: Other second Lattitude : 34.108107
+2021.05.19-15.08.26.406: Other second Longitude : -117.755156
+2021.05.19-15.08.26.407: Other Lattitude : 34.108064
+2021.05.19-15.08.26.407: Other Longitude : -117.755177
+2021.05.19-15.08.26.407: Our X Velocity : 0.000000
+2021.05.19-15.08.26.407: Our Y Velocity : 0.000000
+2021.05.19-15.08.26.407: Other X Velocity : 0.000000
+2021.05.19-15.08.26.407: Other Y Velocity : 0.000000
+2021.05.19-15.08.26.407: Time interval : 0.000000
+2021.05.19-15.08.26.407: ourFuturePos.x : 34
+2021.05.19-15.08.26.407: ourFuturePos.y : -117
+2021.05.19-15.08.26.407: otherFuturePos.x : 34
+2021.05.19-15.08.26.407: otherFuturePos.y : -117
+2021.05.19-15.08.26.407: Future predicted distance : 0.000000
+2021.05.19-15.08.26.407:  : COLLISION DETECTED
+2021.05.19-15.08.26.408: Distance at predicted collision : 0.000000
+2021.05.19-15.08.26.908:  : New point ~~~~~~~~~~
+2021.05.19-15.08.26.908: last lattitude : 34.108067
+2021.05.19-15.08.26.909: last longitude : -117.755054
+2021.05.19-15.08.26.909: second to last Lattitude : 34.108067
+2021.05.19-15.08.26.909: second to last Longitude : -117.755055
+2021.05.19-15.08.26.909: Our Lattitude : 34.108067
+2021.05.19-15.08.26.909: Our Longitude : -117.755055
+2021.05.19-15.08.26.909: Other second Lattitude : 34.108064
+2021.05.19-15.08.26.909: Other second Longitude : -117.755177
+2021.05.19-15.08.26.909: Other Lattitude : 34.108064
+2021.05.19-15.08.26.910: Other Longitude : -117.755177
+2021.05.19-15.08.26.910: Our X Velocity : 0.000000
+2021.05.19-15.08.26.910: Our Y Velocity : 0.000000
+2021.05.19-15.08.26.910: Other X Velocity : 0.000000
+2021.05.19-15.08.26.910: Other Y Velocity : 0.000000
+2021.05.19-15.08.26.910: Time interval : 0.000000
+2021.05.19-15.08.26.910: ourFuturePos.x : 34
+2021.05.19-15.08.26.910: ourFuturePos.y : -117
+2021.05.19-15.08.26.910: otherFuturePos.x : 34
+2021.05.19-15.08.26.910: otherFuturePos.y : -117
+2021.05.19-15.08.26.911: Future predicted distance : 0.000000
+2021.05.19-15.08.26.911:  : COLLISION DETECTED
+2021.05.19-15.08.26.911: Distance at predicted collision : 0.000000
+2021.05.19-15.08.27.412:  : New point ~~~~~~~~~~
+2021.05.19-15.08.27.412: last lattitude : 34.108067
+2021.05.19-15.08.27.412: last longitude : -117.755055
+2021.05.19-15.08.27.412: second to last Lattitude : 34.108067
+2021.05.19-15.08.27.412: second to last Longitude : -117.755055
+2021.05.19-15.08.27.412: Our Lattitude : 34.108067
+2021.05.19-15.08.27.412: Our Longitude : -117.755055
+2021.05.19-15.08.27.412: Other second Lattitude : 34.108064
+2021.05.19-15.08.27.413: Other second Longitude : -117.755177
+2021.05.19-15.08.27.413: Other Lattitude : 34.108064
+2021.05.19-15.08.27.413: Other Longitude : -117.755177
+2021.05.19-15.08.27.413: Our X Velocity : 0.000000
+2021.05.19-15.08.27.413: Our Y Velocity : 0.000000
+2021.05.19-15.08.27.413: Other X Velocity : 0.000000
+2021.05.19-15.08.27.413: Other Y Velocity : 0.000000
+2021.05.19-15.08.27.413: Time interval : 0.000000
+2021.05.19-15.08.27.413: ourFuturePos.x : 34
+2021.05.19-15.08.27.413: ourFuturePos.y : -117
+2021.05.19-15.08.27.414: otherFuturePos.x : 34
+2021.05.19-15.08.27.414: otherFuturePos.y : -117
+2021.05.19-15.08.27.414: Future predicted distance : 0.000000
+2021.05.19-15.08.27.414:  : COLLISION DETECTED
+2021.05.19-15.08.27.414: Distance at predicted collision : 0.000000
+2021.05.19-15.08.27.915:  : New point ~~~~~~~~~~
+2021.05.19-15.08.27.915: last lattitude : 34.108067
+2021.05.19-15.08.27.915: last longitude : -117.755055
+2021.05.19-15.08.27.916: second to last Lattitude : 34.108067
+2021.05.19-15.08.27.916: second to last Longitude : -117.755055
+2021.05.19-15.08.27.916: Our Lattitude : 34.108068
+2021.05.19-15.08.27.916: Our Longitude : -117.755055
+2021.05.19-15.08.27.916: Other second Lattitude : 34.108064
+2021.05.19-15.08.27.916: Other second Longitude : -117.755177
+2021.05.19-15.08.27.916: Other Lattitude : 34.108064
+2021.05.19-15.08.27.916: Other Longitude : -117.755177
+2021.05.19-15.08.27.916: Our X Velocity : 0.000000
+2021.05.19-15.08.27.917: Our Y Velocity : 0.000000
+2021.05.19-15.08.27.917: Other X Velocity : 0.000000
+2021.05.19-15.08.27.917: Other Y Velocity : 0.000000
+2021.05.19-15.08.27.917: Time interval : 0.000000
+2021.05.19-15.08.27.917: ourFuturePos.x : 34
+2021.05.19-15.08.27.917: ourFuturePos.y : -117
+2021.05.19-15.08.27.917: otherFuturePos.x : 34
+2021.05.19-15.08.27.917: otherFuturePos.y : -117
+2021.05.19-15.08.27.917: Future predicted distance : 0.000000
+2021.05.19-15.08.27.918:  : COLLISION DETECTED
+2021.05.19-15.08.27.918: Distance at predicted collision : 0.000000
+2021.05.19-15.08.28.418:  : New point ~~~~~~~~~~
+2021.05.19-15.08.28.419: last lattitude : 34.108067
+2021.05.19-15.08.28.419: last longitude : -117.755055
+2021.05.19-15.08.28.419: second to last Lattitude : 34.108068
+2021.05.19-15.08.28.419: second to last Longitude : -117.755055
+2021.05.19-15.08.28.419: Our Lattitude : 34.108069
+2021.05.19-15.08.28.419: Our Longitude : -117.755055
+2021.05.19-15.08.28.419: Other second Lattitude : 34.108064
+2021.05.19-15.08.28.419: Other second Longitude : -117.755177
+2021.05.19-15.08.28.419: Other Lattitude : 34.108064
+2021.05.19-15.08.28.419: Other Longitude : -117.755177
+2021.05.19-15.08.28.420: Our X Velocity : 0.000000
+2021.05.19-15.08.28.420: Our Y Velocity : 0.000000
+2021.05.19-15.08.28.420: Other X Velocity : 0.000000
+2021.05.19-15.08.28.420: Other Y Velocity : 0.000000
+2021.05.19-15.08.28.420: Time interval : 0.000000
+2021.05.19-15.08.28.420: ourFuturePos.x : 34
+2021.05.19-15.08.28.420: ourFuturePos.y : -117
+2021.05.19-15.08.28.420: otherFuturePos.x : 34
+2021.05.19-15.08.28.420: otherFuturePos.y : -117
+2021.05.19-15.08.28.420: Future predicted distance : 0.000000
+2021.05.19-15.08.28.420:  : COLLISION DETECTED
+2021.05.19-15.08.28.421: Distance at predicted collision : 0.000000

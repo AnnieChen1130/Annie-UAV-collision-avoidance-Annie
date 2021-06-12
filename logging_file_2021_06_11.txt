@@ -1,0 +1,105 @@
+2021.06.11-11.21.34.225:  : New point ~~~~~~~~~~
+2021.06.11-11.21.34.225: last lattitude : 0.000000
+2021.06.11-11.21.34.225: last longitude : 0.000000
+2021.06.11-11.21.34.225: second to last Lattitude : 0.000000
+2021.06.11-11.21.34.225: second to last Longitude : 0.000000
+2021.06.11-11.21.34.225: Our Lattitude : 0.833460
+2021.06.11-11.21.34.226: Our Longitude : -202.854554
+2021.06.11-11.21.34.226: Other second Lattitude : 0.000000
+2021.06.11-11.21.34.226: Other second Longitude : 0.000000
+2021.06.11-11.21.34.226: Other Lattitude : 0.000025
+2021.06.11-11.21.34.226: Other Longitude : -150.565504
+2021.06.11-11.21.34.226: Our X Velocity : 0.039693
+2021.06.11-11.21.34.226: Our Y Velocity : -9.660884
+2021.06.11-11.21.34.226: Other X Velocity : -335.777075
+2021.06.11-11.21.34.226: Other Y Velocity : 97.298107
+2021.06.11-11.21.34.226: Time interval : 0.000000
+2021.06.11-11.21.34.226: ourFuturePos.x : 0
+2021.06.11-11.21.34.227: ourFuturePos.y : -202
+2021.06.11-11.21.34.227: otherFuturePos.x : 0
+2021.06.11-11.21.34.227: otherFuturePos.y : -150
+2021.06.11-11.21.34.227: Future predicted distance : 5788522.764130
+2021.06.11-11.21.34.227: Time interval : 1.000000
+2021.06.11-11.21.34.227: ourFuturePos.x : 1
+2021.06.11-11.21.34.227: ourFuturePos.y : -201
+2021.06.11-11.21.34.227: otherFuturePos.x : 0
+2021.06.11-11.21.34.227: otherFuturePos.y : -150
+2021.06.11-11.21.34.227: Future predicted distance : 5677991.608400
+2021.06.11-11.21.34.228: Time interval : 2.000000
+2021.06.11-11.21.34.228: ourFuturePos.x : 2
+2021.06.11-11.21.34.228: ourFuturePos.y : -201
+2021.06.11-11.21.34.228: otherFuturePos.x : 0
+2021.06.11-11.21.34.228: otherFuturePos.y : -150
+2021.06.11-11.21.34.228: Future predicted distance : 5680350.667055
+2021.06.11-11.21.34.228: Time interval : 3.000000
+2021.06.11-11.21.34.228: ourFuturePos.x : 3
+2021.06.11-11.21.34.228: ourFuturePos.y : -201
+2021.06.11-11.21.34.228: otherFuturePos.x : 0
+2021.06.11-11.21.34.229: otherFuturePos.y : -150
+2021.06.11-11.21.34.229: Future predicted distance : 5684280.065907
+2021.06.11-11.21.34.229: Time interval : 4.000000
+2021.06.11-11.21.34.229: ourFuturePos.x : 4
+2021.06.11-11.21.34.229: ourFuturePos.y : -202
+2021.06.11-11.21.34.229: otherFuturePos.x : 0
+2021.06.11-11.21.34.229: otherFuturePos.y : -150
+2021.06.11-11.21.34.229: Future predicted distance : 5800652.265069
+2021.06.11-11.21.34.229: Time interval : 5.000000
+2021.06.11-11.21.34.229: ourFuturePos.x : 4
+2021.06.11-11.21.34.230: ourFuturePos.y : -203
+2021.06.11-11.21.34.230: otherFuturePos.x : 0
+2021.06.11-11.21.34.230: otherFuturePos.y : -150
+2021.06.11-11.21.34.230: Future predicted distance : 5911540.081046
+2021.06.11-11.21.34.230: Time interval : 6.000000
+2021.06.11-11.21.34.230: ourFuturePos.x : 3
+2021.06.11-11.21.34.230: ourFuturePos.y : -204
+2021.06.11-11.21.34.230: otherFuturePos.x : 0
+2021.06.11-11.21.34.230: otherFuturePos.y : -150
+2021.06.11-11.21.34.230: Future predicted distance : 6017506.580315
+2021.06.11-11.21.34.231: Time interval : 7.000000
+2021.06.11-11.21.34.231: ourFuturePos.x : 2
+2021.06.11-11.21.34.231: ourFuturePos.y : -204
+2021.06.11-11.21.34.231: otherFuturePos.x : 0
+2021.06.11-11.21.34.231: otherFuturePos.y : -150
+2021.06.11-11.21.34.231: Future predicted distance : 6013980.657326
+2021.06.11-11.21.34.231: Time interval : 8.000000
+2021.06.11-11.21.34.232: ourFuturePos.x : 1
+2021.06.11-11.21.34.232: ourFuturePos.y : -204
+2021.06.11-11.21.34.232: otherFuturePos.x : 0
+2021.06.11-11.21.34.232: otherFuturePos.y : -150
+2021.06.11-11.21.34.232: Future predicted distance : 6011863.994409
+2021.06.11-11.21.34.232: Time interval : 9.000000
+2021.06.11-11.21.34.232: ourFuturePos.x : 0
+2021.06.11-11.21.34.232: ourFuturePos.y : -202
+2021.06.11-11.21.34.232: otherFuturePos.x : 0
+2021.06.11-11.21.34.232: otherFuturePos.y : -150
+2021.06.11-11.21.34.232: Future predicted distance : 5788522.764130
+2021.06.11-11.21.34.232: Time interval : 10.000000
+2021.06.11-11.21.34.232: ourFuturePos.x : 1
+2021.06.11-11.21.34.232: ourFuturePos.y : -201
+2021.06.11-11.21.34.232: otherFuturePos.x : 0
+2021.06.11-11.21.34.233: otherFuturePos.y : -150
+2021.06.11-11.21.34.233: Future predicted distance : 5677991.608400
+2021.06.11-11.21.34.233: Time interval : 11.000000
+2021.06.11-11.21.34.233: ourFuturePos.x : 2
+2021.06.11-11.21.34.233: ourFuturePos.y : -201
+2021.06.11-11.21.34.233: otherFuturePos.x : 0
+2021.06.11-11.21.34.233: otherFuturePos.y : -150
+2021.06.11-11.21.34.233: Future predicted distance : 5680350.667055
+2021.06.11-11.21.34.233: Time interval : 12.000000
+2021.06.11-11.21.34.233: ourFuturePos.x : 3
+2021.06.11-11.21.34.233: ourFuturePos.y : -201
+2021.06.11-11.21.34.233: otherFuturePos.x : 0
+2021.06.11-11.21.34.233: otherFuturePos.y : -150
+2021.06.11-11.21.34.233: Future predicted distance : 5684280.065907
+2021.06.11-11.21.34.233: Time interval : 13.000000
+2021.06.11-11.21.34.233: ourFuturePos.x : 4
+2021.06.11-11.21.34.233: ourFuturePos.y : -202
+2021.06.11-11.21.34.233: otherFuturePos.x : 0
+2021.06.11-11.21.34.233: otherFuturePos.y : -150
+2021.06.11-11.21.34.233: Future predicted distance : 5800652.265069
+2021.06.11-11.21.34.233: Time interval : 14.000000
+2021.06.11-11.21.34.233: ourFuturePos.x : 4
+2021.06.11-11.21.34.234: ourFuturePos.y : -203
+2021.06.11-11.21.34.234: otherFuturePos.x : 0
+2021.06.11-11.21.34.234: otherFuturePos.y : -150
+2021.06.11-11.21.34.234: Future predicted distance : 5911540.081046
